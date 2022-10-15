@@ -3,9 +3,14 @@
     <p align="center" style="font-weight: bold;">🚀 Projeto Lab Ecommerce
 <p>
 </h2>
+
+---
 ## 🎯 Objetivo do Projeto
 
    <p> A proposta foi montar um e-commerce de itens espaciais, dentre as diferentes linhas de produtos escolhemos as camisetas com estampas relacionadas ao espaço<p>
+  
+    
+---
     
 ## 🕵 Sobre
     O projeto consiste em 3 grandes partes:
@@ -64,9 +69,9 @@
 <br/>
  
 - Esse projeto foi todo construido com React e foi possivel aprender algumas lições muito importantes sobre alguns Hooks como useState e useEffect ao longo do projeto. Aprendendo sobre como useState modifica valores, como useEffect nos permite executar código juntamente com localStorage definindo e obtendo dados.
-  
     
- ---
+---
+    
 ##  🔠Conteúdos
 
    * [Sobre](#sobre)
@@ -99,7 +104,8 @@
     <td align="center"><a href="https://github.com/jarbasmarinho33"><img style="border-radius: 50%;" src="https://unavatar.io/github/jarbasmarinho33" width="100px;" alt=""/><br /><sub><b>Jarbas Rodrigues</b></sub></a><br /></td> 
   </tr>
 </table>
-    
+ 
+---
     
 ## 🛠️ Construído com
 <br>
@@ -112,7 +118,9 @@
 <img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856535-00dbc8fe-e415-4fa3-8d81-50975fb8839c.png">
 </p>
 <br>
-    
+
+---
+
 <h2>
     <p style="font-weight: bold;"> 🛰 Rodando o Projeto</p>
     <p>Para rodar o projeto, siga as seguintes etapas:
@@ -120,21 +128,25 @@
 - npm run start
 </h2>
 
+---
+
 ## Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
      <img src="./public/projeto.png">
 
+---
+    
 <h2>
     <br>
     <p style="font-weight: bold;">🔗 Link do projeto</p>
 </h2>
 
+---
+
 ➡ **[LabEcommerce](https://ossified-machine.surge.sh/)**
 
-## 📝Sobre a Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
+---
 
 <h2>
     <p style="font-weight: bold;">🔗 Link do Kanban</p>
@@ -144,4 +156,9 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 <br>
 
+---
+
+## 📝Sobre a Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
