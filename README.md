@@ -75,8 +75,9 @@
 ##  🔠Conteúdos
 
    * [Sobre](#sobre)
-   * [Quem Faz](#-quem-fez)
-   * [Status](#status)
+   * [Quem Fez](#quem-fez)
+   * [Construído com](#construido-com)
+   * [Status do Projeto](#status-do-projeto)
    * [Objetivo do Projeto](#objetivo-do-projeto)
    * [Link para Acessar](#link-para-acessar)
    * [Rodando o Projeto](#rodando-o-projeto)
@@ -86,16 +87,16 @@
     
 ##  🧭Status do Projeto
 
-~~COLOCAR AQUI O STATUS DO PROJETO. ALÉM DISSO, VOCÊ PODE COLOCAR QUAL PARTE VOCÊ ESTÁ DESENVOLVENDO (ESTILIZAÇÃO, RESPONSIVIDADE, ETC...)~~
-
  - ⌛ Feito
 
 ---
     
-    <h2>
+<h2>
     <br>
     <p style="font-weight: bold;">👨‍💻 Quem fez</p>
 </h2>
+
+---
 
 <table>
   <tr>
@@ -139,7 +140,7 @@
     
 <h2>
     <br>
-    <p style="font-weight: bold;">🔗 Link do projeto</p>
+    <p style="font-weight: bold;">🔗 Link para acessar</p>
 </h2>
 
 ---
