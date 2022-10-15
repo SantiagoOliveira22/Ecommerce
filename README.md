@@ -3,9 +3,11 @@
     <p align="center" style="font-weight: bold;">🚀 Projeto Lab Ecommerce
 <p>
 </h2>
+## 🎯 Objetivo do Projeto
 
    <p> A proposta foi montar um e-commerce de itens espaciais, dentre as diferentes linhas de produtos escolhemos as camisetas com estampas relacionadas ao espaço<p>
     
+## 🕵 Sobre
     O projeto consiste em 3 grandes partes:
 
 ### Parte 1 - Home 🏠
@@ -62,12 +64,32 @@
 <br/>
  
 - Esse projeto foi todo construido com React e foi possivel aprender algumas lições muito importantes sobre alguns Hooks como useState e useEffect ao longo do projeto. Aprendendo sobre como useState modifica valores, como useEffect nos permite executar código juntamente com localStorage definindo e obtendo dados.
-- Instalar dependencias para rodar o projeto.
+  
     
+ ---
+##  🔠Conteúdos
+
+   * [Sobre](#sobre)
+   * [Quem Faz](#-quem-fez)
+   * [Status](#status)
+   * [Objetivo do Projeto](#objetivo-do-projeto)
+   * [Link para Acessar](#link-para-acessar)
+   * [Rodando o Projeto](#rodando-o-projeto)
+   * [Sobre a Licença](#sobre-a-licença)
+    
+---
+    
+##  🧭Status do Projeto
+
+~~COLOCAR AQUI O STATUS DO PROJETO. ALÉM DISSO, VOCÊ PODE COLOCAR QUAL PARTE VOCÊ ESTÁ DESENVOLVENDO (ESTILIZAÇÃO, RESPONSIVIDADE, ETC...)~~
+
+ - ⌛ Feito
+
+---
     
     <h2>
     <br>
-    <p style="font-weight: bold;">👨‍💻 Grupo do Projeto</p>
+    <p style="font-weight: bold;">👨‍💻 Quem fez</p>
 </h2>
 
 <table>
@@ -92,7 +114,10 @@
 <br>
     
 <h2>
-    <p style="font-weight: bold;">⭐ Requisitos do Projeto</p>
+    <p style="font-weight: bold;"> 🛰 Rodando o Projeto</p>
+    <p>Para rodar o projeto, siga as seguintes etapas:
+- npm install
+- npm run start
 </h2>
 
 ## Web
@@ -106,6 +131,10 @@
 </h2>
 
 ➡ **[LabEcommerce](https://ossified-machine.surge.sh/)**
+
+## 📝Sobre a Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
 <h2>
     <p style="font-weight: bold;">🔗 Link do Kanban</p>
