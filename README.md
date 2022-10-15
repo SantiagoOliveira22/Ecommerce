@@ -79,7 +79,7 @@ O projeto consiste em 3 grandes partes:
     <p style="font-weight: bold;">🔗 Link do projeto</p>
 </h2>
 
-➡ **[LabEcommerce grupo 9 Lamarr](https://equable-front.surge.sh/)**
+➡ **[LabEcommerce](https://ossified-machine.surge.sh/)**
 
 <h2>
     <p style="font-weight: bold;">🔗 Link do Kanban</p>
