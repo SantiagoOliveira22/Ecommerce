@@ -4,17 +4,9 @@
 <p>
 </h2>
 
-<h1>Resumo</h1>
-
-    A proposta foi montar um e-commerce de itens espaciais, dentre as diferentes linhas de produtos escolhemos as camisetas com estampas relacionadas ao espaço;
- 
-- Esse projeto foi todo construido com React e foi possivel aprender algumas lições muito importantes sobre alguns Hooks como useState e useEffect ao longo do projeto. Aprendendo sobre como useState modifica valores, como useEffect nos permite executar código juntamente com localStorage definindo e obtendo dados.
-
-<h2>
-    <p style="font-weight: bold;">⭐ Requisitos do Projeto</p>
-</h2>
-
-O projeto consiste em 3 grandes partes:
+   <p> A proposta foi montar um e-commerce de itens espaciais, dentre as diferentes linhas de produtos escolhemos as camisetas com estampas relacionadas ao espaço<p>
+    
+    O projeto consiste em 3 grandes partes:
 
 ### Parte 1 - Home 🏠
 <details> 
@@ -68,6 +60,40 @@ O projeto consiste em 3 grandes partes:
 - Possibilidade de salvar os valores das compras, mesmo quando recarrega a página
 </details>
 <br/>
+ 
+- Esse projeto foi todo construido com React e foi possivel aprender algumas lições muito importantes sobre alguns Hooks como useState e useEffect ao longo do projeto. Aprendendo sobre como useState modifica valores, como useEffect nos permite executar código juntamente com localStorage definindo e obtendo dados.
+- Instalar dependencias para rodar o projeto.
+    
+    
+    <h2>
+    <br>
+    <p style="font-weight: bold;">👨‍💻 Grupo do Projeto</p>
+</h2>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/gans92"><img style="border-radius: 50%;" src="https://unavatar.io/github/gans92" width="100px;" alt=""/><br /><sub><b>Gabriel Alisson</b></sub></a><br /></td>    
+    <td align="center"><a href="https://github.com/SantiagoOliveira22"><img style="border-radius: 50%;" src="https://unavatar.io/github/SantiagoOliveira22" width="100px;" alt=""/><br /><sub><b>Santiago Oliveira</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/jarbasmarinho33"><img style="border-radius: 50%;" src="https://unavatar.io/github/jarbasmarinho33" width="100px;" alt=""/><br /><sub><b>Jarbas Rodrigues</b></sub></a><br /></td> 
+  </tr>
+</table>
+    
+    
+## 🛠️ Construído com
+<br>
+<p>
+<img witdh="40px" height="40px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+<img witdh="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"> 
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856370-844eb1b7-11f6-48cd-abec-21c1da4b38b4.png">
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856432-c20873d2-9b31-412e-92e9-a1f6c609b40c.png">
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856484-18282144-9061-42ee-9691-66c6454b362f.png">
+<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856535-00dbc8fe-e415-4fa3-8d81-50975fb8839c.png">
+</p>
+<br>
+    
+<h2>
+    <p style="font-weight: bold;">⭐ Requisitos do Projeto</p>
+</h2>
 
 ## Web
 
@@ -89,26 +115,4 @@ O projeto consiste em 3 grandes partes:
 
 <br>
 
-## 🛠️ Construído com
-<br>
-<p>
-<img witdh="40px" height="40px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
-<img witdh="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"> 
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856370-844eb1b7-11f6-48cd-abec-21c1da4b38b4.png">
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856432-c20873d2-9b31-412e-92e9-a1f6c609b40c.png">
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856484-18282144-9061-42ee-9691-66c6454b362f.png">
-<img witdh="40px" height="40px" src="https://user-images.githubusercontent.com/98292838/163856535-00dbc8fe-e415-4fa3-8d81-50975fb8839c.png">
-</p>
 
-<h2>
-    <br>
-    <p style="font-weight: bold;">👨‍💻 Grupo do Projeto</p>
-</h2>
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/gans92"><img style="border-radius: 50%;" src="https://unavatar.io/github/gans92" width="100px;" alt=""/><br /><sub><b>Gabriel Alisson</b></sub></a><br /></td>    
-    <td align="center"><a href="https://github.com/SantiagoOliveira22"><img style="border-radius: 50%;" src="https://unavatar.io/github/SantiagoOliveira22" width="100px;" alt=""/><br /><sub><b>Santiago Oliveira</b></sub></a><br /></td> 
-    <td align="center"><a href="https://github.com/jarbasmarinho33"><img style="border-radius: 50%;" src="https://unavatar.io/github/jarbasmarinho33" width="100px;" alt=""/><br /><sub><b>Jarbas Rodrigues</b></sub></a><br /></td> 
-  </tr>
-</table>
