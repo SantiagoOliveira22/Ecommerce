@@ -71,17 +71,7 @@
 - Esse projeto foi todo construido com React e foi possivel aprender algumas lições muito importantes sobre alguns Hooks como useState e useEffect ao longo do projeto. Aprendendo sobre como useState modifica valores, como useEffect nos permite executar código juntamente com localStorage definindo e obtendo dados.
     
 ---
-    
-##  🔠Conteúdos
 
-   * [Sobre](#sobre)
-   * [Quem Fez](#quem-fez)
-   * [Construído com](#construido-com)
-   * [Status do Projeto](#status-do-projeto)
-   * [Objetivo do Projeto](#objetivo-do-projeto)
-   * [Link para Acessar](#link-para-acessar)
-   * [Rodando o Projeto](#rodando-o-projeto)
-   * [Sobre a Licença](#sobre-a-licença)
     
 ---
     
